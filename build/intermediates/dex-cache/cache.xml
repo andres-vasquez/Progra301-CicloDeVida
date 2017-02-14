@@ -20,6 +20,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_5461e318884bad8fe0a70e644acac148ed24194e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -37,12 +46,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_3f519251efc1e012b23a868ad82da0ca42309964.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
         <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_6c91d625a975c95fb6838b94e7741f97f655d949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_ab0a180883b0f8e9d4c46d05e787662001332e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_ff6172f6c62eff51bfd19b17f07385ebf0704f2f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,6 +108,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_e36f151a8ea38ca5b4f68ea8e8040f120f7b257e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -81,12 +126,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_eb2e350b8779f131493f7e5640cc7297cdc90b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
         <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_d074e899bc0f19ee2e40040c673fbec4bf330fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_c11e0d320bc19d27158e9f5a303a1e88fbded2ec.jar" />
     </item>
     <item
         is-multidex="false"
@@ -114,6 +177,24 @@
         revision="25.0.2"
         sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
         <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_b1ebf5a29572e12922ee0761fdec6493e2b6eb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_9c9af76657092c4476609db0dc15af88c705c557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upbsample/Progra301-CicloDeVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_5c67e3fda31ce9182e73405931874a98017d5f89.jar" />
     </item>
     <item
         jar="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"

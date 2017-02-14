@@ -15,6 +15,13 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     @Override
+    protected void onStart()
+    {
+        super.onStart();
+        Log.d("Estado: ","SecondActivity.Start");
+    }
+
+    @Override
     protected void onPause()
     {
         super.onPause();
