@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andresvasquez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f3f9017c2cfa48c3ee2e72113939b1d33578548a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_89d37b9161b081a85129ae2534193d966f9b2e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_587f72742f252c7ee82b0210ea109c0a48a0a533.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/pre-dexed/debug/classes-ddc0ff11535600d49ea2243dea3f456aac3f3cb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_6c91d625a975c95fb6838b94e7741f97f655d949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_888a2489f094eea4a7f26dc19e1c92bea984d693.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-54eae8031752ea60c9b10b0e979dc39a220c12d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_41e7bd9706496af005560cf18cf73324844b17eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_01227ba6656ff652932932b4a4c8de8a250f2eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_d074e899bc0f19ee2e40040c673fbec4bf330fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_f977db1f70b33f41c525bf71451b16c62b3ae8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_1e612239f2631b6066b1ff2128cde7ee36f88384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/upb/CicloVida/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_b1ebf5a29572e12922ee0761fdec6493e2b6eb56.jar" />
+    </item>
+    <item
+        jar="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/andresvasquez/AndroidStudioProjects/curso-android-2016/CicloVida/app/build/intermediates/pre-dexed/debug/classes-08542d652f7f20122e39a20d585eb0e5e27e6221.jar" />
+    </item>
+
+</items>
